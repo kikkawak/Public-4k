@@ -1,5 +1,5 @@
 ## 
-- git remote add origin git@github.com:[username]/*.git
+- git remote add origin git@github.com:[username]/[repositoryname].git
 - (git branch -M main)
 - git pull origin main --rebase
 - git add ./*.txt
